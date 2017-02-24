@@ -1,0 +1,11 @@
+{
+    "path_to_chromedriver": "/usr/bin/chromedriver",
+	"user_data_dir": "/home/henryb/.config/google-chrome/",
+    "domain": "vrisko.gr",
+    "url": "http://www.vrisko.gr/",
+    "download_folder": "",
+    "username" : "henrybx",
+	"password" : "12345671x",
+	"captcha_file" : "screenshotxxxx.jpg",
+	"page": 1
+}

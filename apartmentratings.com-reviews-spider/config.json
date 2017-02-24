@@ -1,0 +1,7 @@
+{
+    "path_to_chromedriver": "C:\\chromedriver_win32\\chromedriver.exe",
+	"user_data_dir": "",
+    "domain": "google.com",
+    "url": "https://www.google.com",
+    "download_folder": ""
+}

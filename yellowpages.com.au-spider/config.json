@@ -1,0 +1,7 @@
+{
+    "path_to_chromedriver": "C:\\chromedriver_win32\\chromedriver.exe",
+	"user_data_dir": "",
+    "domain": "yellowpages.com.au",
+    "url": "https://www.yellowpages.com.au",
+    "download_folder": ""
+}

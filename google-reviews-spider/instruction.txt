@@ -1,0 +1,10 @@
+Required:
+- Python 2.7
+- Scrapy installed
+- Selenium installed
+==========================================
+- Extract this package
+- Config params in config.json file
+- Open command window(Windows) or Terminal(Linux) then move to this folder
+- Run command: 
+    scrapy crawl collect
